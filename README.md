@@ -1,2 +1,2 @@
 # hello-github
-the process to learning how to handle files by github
+the process to learn how to handle files by github
